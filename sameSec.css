@@ -1,5 +1,9 @@
 /* Normal Size */
 
+.topPlacestoVisit{
+  margin-top: -60px;
+}
+
 body {
     font-family: "Open Sans", sans-serif;
     margin: 0%;
@@ -269,6 +273,13 @@ body {
   /* Tab */
   
   @media screen and (min-width: 751px) and (max-width: 1174px) {
+    .topPlacestoVisit{
+      margin-top: -80px;
+    }
+    
+    
+    
+    
     body {
       font-family: "Open Sans", sans-serif;
       margin: 0%;
