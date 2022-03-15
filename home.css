@@ -983,7 +983,7 @@ main {
   /* END of TITLE  ----->Top places to visit end */
 }
 
-@media only screen and (max-width: 751px) {
+@media only screen and (min-width:200px) and (max-width: 751px) {
   /* body{
     margin: 0;
     padding: 0;
@@ -993,7 +993,9 @@ main {
   } */
 
   /* BANNER ----> DIV_START */
- 
+  body{
+    max-width: fit-content;
+  }
   #navbar {
     display: flex;
 }

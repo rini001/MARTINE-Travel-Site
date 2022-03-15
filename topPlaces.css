@@ -696,7 +696,7 @@ footer {
 
 
 /* media 2 */
-  @media only screen and (max-width: 751px) {
+@media only screen and (max-width: 751px) {
      body{
       margin: 0;
       padding: 0;
