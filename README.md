@@ -4,4 +4,4 @@ Live Demo https://project-1-martine.vercel.app/
 
 ## 1. Landing Page
 
-![](LandingPage.png)
+![](imgs/LandingPage.png)
