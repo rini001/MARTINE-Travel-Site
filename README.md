@@ -38,5 +38,4 @@ Live Demo https://project-1-martine.vercel.app/
   ### 1. Hamburger type navbar
   ### 2. Fully responsive upto 458px
   
-  # Contributers :-
-  @Vishal
+
