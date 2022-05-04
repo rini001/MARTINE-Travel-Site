@@ -30,11 +30,13 @@ Live Demo https://project-1-martine.vercel.app/
 
 
 # Technologies used :-
-  ## 1. HTML
-  ## 2. CSS
-  ## 3. JavaScript
+  ### 1. HTML
+  ### 2. CSS
+  ### 3. JavaScript
   
 #  Features :- 
-  ## 1. Hamburger type navbar
-  ## 2. Fully responsive upto 458px
-   
+  ### 1. Hamburger type navbar
+  ### 2. Fully responsive upto 458px
+  
+  # Contributers :-
+  @Vishal
