@@ -9,22 +9,29 @@ Live Demo https://project-1-martine.vercel.app/
 
 ## 2. Responsiveness 
 
-![](imgs/LandingPage.png)
+![](imgs/Responsivenss.png)
 
 
 
 ## 3. About Page
 
-![](imgs/LandingPage.png)
+![](imgs/about.png)
 
 
 
 ## 4. Packages Page
 
-![](imgs/LandingPage.png)
+![](imgs/packages.png)
 
 
 
 ## 5. Footer
 
-![](imgs/LandingPage.png)
+![](imgs/footer.png)
+
+
+## Technologies used :-
+  ## 1. HTML
+  ## 2. CSS
+  ## 3. JavaScript
+   
