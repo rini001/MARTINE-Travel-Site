@@ -9,7 +9,7 @@ Live Demo https://project-1-martine.vercel.app/
 
 ## 2. Responsiveness 
 
-![](imgs/Responsivenss.png)
+![](imgs/Responsiveness.png)
 
 
 
